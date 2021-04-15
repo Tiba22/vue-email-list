@@ -14,7 +14,7 @@ function getEmails () {
       },
 
       error: function() {
-        console.log('errore');
+        alert('errore');
       }
     })
   }
